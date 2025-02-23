@@ -4,7 +4,7 @@ Tổng quan về Lab Phising mail trên letdefend
 
     *SOC141 Phising URL Detected*
 
-![image](https://hackmd.io/_uploads/Byb9jnU51e.png)
+https://hackmd.io/_uploads/Byb9jnU51e.png
 
 
 Mình sẽ vào phần Monitoring để xem chi tiết EVENT ID : 86
